@@ -1,4 +1,4 @@
-# Share code vòng quay lì xì 2020
+# Share code vòng quay lì xì 2023
 Tết thấy vui vui nên ngẫu hứng viết một con web tặng mọi người.
 Mình dùng `Winwheel.js` để làm vòng quay và `sweetalert.js` để làm popup 
 ## Demo
@@ -18,7 +18,7 @@ Bộ html nên ae up lên host hoặc save vô máy rồi bật ra
 
 Tuỳ chỉnh css ở `css/custom.css`
 ### Chỉnh sửa vòng quay "`index.html`"
-Anh em có thể sửa ảnh 2020 để dùng cho nhiều năm sau, đường dẫn của nó là `img/hea2.png` ở dòng 28 `index.html`
+Anh em có thể sửa ảnh 2023 để dùng cho nhiều năm sau, đường dẫn của nó là `img/hea2.png` ở dòng 28 `index.html`
 
 Tiếp đến có thể sửa nhạc "Vỗ tay", "Mất lượt", "Đang quay" ở dòng 70 71 72 `index.html`
 
