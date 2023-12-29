@@ -4,7 +4,7 @@ Mình dùng `Winwheel.js` để làm vòng quay và `sweetalert.js` để làm p
 ## Demo
 Anh em xem demo ở đây: [Vòng quay lì xì]([https://sharescript.net/demo/vong-quay-li-xi-2020-by-GrouSrlpPrsc/](https://mkhue720.github.io/code-web-random-wheel/))
 
-Lưu ý pass mở khoá vòng quay là "mycode"
+Lưu ý pass mở khoá vòng quay là "2023"
 ## Ý tưởng và chức năng
 Ý tưởng thực ra là dành cho điện thoại. Sau khi truy cập vào web, nhập pass rồi mình sẽ đưa cho mấy đứa con nít quay, mỗi đứa sẽ được quay một số lần nhất định mình đã setup trước, sau khi quay hết sẽ yêu cầu nhập pass(thực ra view source là thấy cmn pass luôn, có thể obfuscated tí cho vui). Phần cài đặt bên dưới có lịch sử lì xì và tổng số tiền đã mất...
 
